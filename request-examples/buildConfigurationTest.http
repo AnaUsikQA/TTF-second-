@@ -20,7 +20,7 @@ GET https://examples.http-client.intellij.net/get
 ###
 
 ### Get all projects
-GET http://admin:admin@192.168.1.110:8111/app/rest/projects/
+GET http://admin:admin@192.168.1.110:8111/app/rest/projects/name:test_MLUIocERUp
 Accept: application/json
 
 ### 1. Create project
